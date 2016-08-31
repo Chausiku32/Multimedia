@@ -1,0 +1,11 @@
+c:\users\nick\documents\visual studio 2013\Projects\MP3Conversion\MP3Conversion\bin\Debug\MP3Conversion.exe.config
+c:\users\nick\documents\visual studio 2013\Projects\MP3Conversion\MP3Conversion\bin\Debug\MP3Conversion.exe
+c:\users\nick\documents\visual studio 2013\Projects\MP3Conversion\MP3Conversion\bin\Debug\MP3Conversion.pdb
+c:\users\nick\documents\visual studio 2013\Projects\MP3Conversion\MP3Conversion\bin\Debug\NAudio.dll
+c:\users\nick\documents\visual studio 2013\Projects\MP3Conversion\MP3Conversion\bin\Debug\NAudio.xml
+c:\users\nick\documents\visual studio 2013\Projects\MP3Conversion\MP3Conversion\obj\Debug\MP3Conversion.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\MP3Conversion\MP3Conversion\obj\Debug\MP3Conversion.Form1.resources
+c:\users\nick\documents\visual studio 2013\Projects\MP3Conversion\MP3Conversion\obj\Debug\MP3Conversion.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2013\Projects\MP3Conversion\MP3Conversion\obj\Debug\MP3Conversion.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2013\Projects\MP3Conversion\MP3Conversion\obj\Debug\MP3Conversion.exe
+c:\users\nick\documents\visual studio 2013\Projects\MP3Conversion\MP3Conversion\obj\Debug\MP3Conversion.pdb

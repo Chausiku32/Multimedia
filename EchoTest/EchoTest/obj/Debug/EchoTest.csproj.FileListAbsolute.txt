@@ -1,0 +1,11 @@
+c:\users\nick\documents\visual studio 2013\Projects\EchoTest\EchoTest\bin\Debug\EchoTest.exe.config
+c:\users\nick\documents\visual studio 2013\Projects\EchoTest\EchoTest\bin\Debug\EchoTest.exe
+c:\users\nick\documents\visual studio 2013\Projects\EchoTest\EchoTest\bin\Debug\EchoTest.pdb
+c:\users\nick\documents\visual studio 2013\Projects\EchoTest\EchoTest\bin\Debug\NAudio.dll
+c:\users\nick\documents\visual studio 2013\Projects\EchoTest\EchoTest\bin\Debug\NAudio.xml
+c:\users\nick\documents\visual studio 2013\Projects\EchoTest\EchoTest\obj\Debug\EchoTest.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\EchoTest\EchoTest\obj\Debug\EchoTest.Form1.resources
+c:\users\nick\documents\visual studio 2013\Projects\EchoTest\EchoTest\obj\Debug\EchoTest.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2013\Projects\EchoTest\EchoTest\obj\Debug\EchoTest.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2013\Projects\EchoTest\EchoTest\obj\Debug\EchoTest.exe
+c:\users\nick\documents\visual studio 2013\Projects\EchoTest\EchoTest\obj\Debug\EchoTest.pdb

@@ -1,0 +1,10 @@
+c:\users\nick\documents\visual studio 2013\Projects\Matilda\Matilda\bin\Debug\Matilda.exe.config
+c:\users\nick\documents\visual studio 2013\Projects\Matilda\Matilda\bin\Debug\Matilda.exe
+c:\users\nick\documents\visual studio 2013\Projects\Matilda\Matilda\bin\Debug\Matilda.pdb
+c:\users\nick\documents\visual studio 2013\Projects\Matilda\Matilda\obj\Debug\Matilda.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\Matilda\Matilda\obj\Debug\Matilda.Form1.resources
+c:\users\nick\documents\visual studio 2013\Projects\Matilda\Matilda\obj\Debug\Matilda.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2013\Projects\Matilda\Matilda\obj\Debug\Matilda.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2013\Projects\Matilda\Matilda\obj\Debug\Matilda.exe
+c:\users\nick\documents\visual studio 2013\Projects\Matilda\Matilda\obj\Debug\Matilda.pdb
+C:\Users\Nick\documents\visual studio 2013\Projects\Matilda\Matilda\obj\Debug\Matilda.Form2.resources

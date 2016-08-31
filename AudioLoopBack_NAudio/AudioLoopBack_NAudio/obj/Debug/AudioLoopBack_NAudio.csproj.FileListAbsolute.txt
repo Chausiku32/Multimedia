@@ -1,0 +1,11 @@
+c:\users\nick\documents\visual studio 2013\Projects\AudioLoopBack_NAudio\AudioLoopBack_NAudio\bin\Debug\AudioLoopBack_NAudio.exe.config
+c:\users\nick\documents\visual studio 2013\Projects\AudioLoopBack_NAudio\AudioLoopBack_NAudio\bin\Debug\AudioLoopBack_NAudio.exe
+c:\users\nick\documents\visual studio 2013\Projects\AudioLoopBack_NAudio\AudioLoopBack_NAudio\bin\Debug\AudioLoopBack_NAudio.pdb
+c:\users\nick\documents\visual studio 2013\Projects\AudioLoopBack_NAudio\AudioLoopBack_NAudio\bin\Debug\NAudio.dll
+c:\users\nick\documents\visual studio 2013\Projects\AudioLoopBack_NAudio\AudioLoopBack_NAudio\bin\Debug\NAudio.xml
+c:\users\nick\documents\visual studio 2013\Projects\AudioLoopBack_NAudio\AudioLoopBack_NAudio\obj\Debug\AudioLoopBack_NAudio.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2013\Projects\AudioLoopBack_NAudio\AudioLoopBack_NAudio\obj\Debug\AudioLoopBack_NAudio.Form1.resources
+c:\users\nick\documents\visual studio 2013\Projects\AudioLoopBack_NAudio\AudioLoopBack_NAudio\obj\Debug\AudioLoopBack_NAudio.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2013\Projects\AudioLoopBack_NAudio\AudioLoopBack_NAudio\obj\Debug\AudioLoopBack_NAudio.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2013\Projects\AudioLoopBack_NAudio\AudioLoopBack_NAudio\obj\Debug\AudioLoopBack_NAudio.exe
+c:\users\nick\documents\visual studio 2013\Projects\AudioLoopBack_NAudio\AudioLoopBack_NAudio\obj\Debug\AudioLoopBack_NAudio.pdb

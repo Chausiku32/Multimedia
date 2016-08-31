@@ -1,0 +1,9 @@
+c:\users\nick\documents\visual studio 2013\Projects\Echo_Application\Echo_Application\bin\Debug\Echo_Application.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\Echo_Application\Echo_Application\bin\Debug\Echo_Application.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\Echo_Application\Echo_Application\bin\Debug\Echo_Application.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\Echo_Application\Echo_Application\obj\Debug\Echo_Application.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\Echo_Application\Echo_Application\obj\Debug\Echo_Application.Form1.resources
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\Echo_Application\Echo_Application\obj\Debug\Echo_Application.Properties.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\Echo_Application\Echo_Application\obj\Debug\Echo_Application.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\Echo_Application\Echo_Application\obj\Debug\Echo_Application.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\Echo_Application\Echo_Application\obj\Debug\Echo_Application.pdb
